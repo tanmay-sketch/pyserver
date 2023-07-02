@@ -10,4 +10,6 @@ Creating a web server from scratch in python.
 
 Command for running the server:
 
-`python server.py`
+```
+python server.py
+```
