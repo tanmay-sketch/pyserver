@@ -9,4 +9,5 @@ Creating a web server from scratch in python.
 3. Sends Responses back to a user
 
 Command for running the server:
+
 `python server.py`
